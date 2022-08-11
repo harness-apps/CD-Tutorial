@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Harness.io Continuous Integration Tutorial
+title: Harness.io Continuous Delivery Tutorial
 email: "kevin.poorman@harness.io"
 description: >- # this means to ignore newlines until "baseurl:"
   A fun tutorial demonstrating how to build a sample application with Harness CI
